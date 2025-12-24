@@ -12,7 +12,7 @@ main:
     authors: "Shripad Pate*, <strong>Aiman Farooq*</strong>, Suvrankar Datta, Dr Musadiq Adil Sheikh, Dr. Atin Kumar, Deepak Mishra"
     conference_short: "MICCAI"
     conference: "Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong>, 2025"
-    pdf: null
+    pdf: https://link.springer.com/chapter/10.1007/978-3-032-05182-0_22
     code: null
     image: "./assets/img/rib_fracture.png"
     notes: "Early Accept (9%), * = equal contribution"
