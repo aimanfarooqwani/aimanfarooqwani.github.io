@@ -12,7 +12,7 @@ I am a Ph.D. student in the CSE Dept. at <a href="https://www.iitj.ac.in/"> IIT 
 - **Machine Learning:** Self-Supervised Learning, Causal Analysis
 
 ## News
-- **[Nov. 2025]** WiML travel grant and NeuRIPS Scholar award to attend NeuRIPS 2025..
+- **[Nov. 2025]** WiML travel grant and NeuRIPS Scholar award to attend NeuRIPS 2025.
 - **[Sept. 2025]** Awarded the MICCAI Travel Grant(2500$) to attend MICCAI 2025.
 - **[Sept. 2025]** Selected as a MICCAI 2025 Outreach Program Supporter. 
 
