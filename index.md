@@ -23,6 +23,8 @@ I am a Ph.D. student at the <a href="https://www.iitj.ac.in/"> IIT Jodhpur</a>, 
 
 {% include_relative _includes/teaching.md %}
 
+{% include_relative _includes/awards.md %}
+
 
 
 
