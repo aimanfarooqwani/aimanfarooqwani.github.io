@@ -4,15 +4,16 @@ main:
     authors: "<strong>Aiman Farooq</strong>, D Mishra, S Chaudhury"
     conference_short: "NeurIPS WiML"
     conference: "Women in Machine Learning Workshop @ NeurIPS, 2025"
-    pdf:https://openreview.net/attachment?id=2ovFKara9R&name=pdf
+    pdf: "https://openreview.net/attachment?id=2ovFKara9R&name=pdf"
+    code: null
     image: "./assets/img/causal_survival.png"
 
   - title: "Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings - A Detailed Annotation Framework and Multi-Label Classification Model"
     authors: "Shripad Pate*, <strong>Aiman Farooq*</strong>, Suvrankar Datta, Dr Musadiq Adil Sheikh, Dr. Atin Kumar, Deepak Mishra"
     conference_short: "MICCAI"
     conference: "Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong>, 2025"
-    pdf:
-    code:
+    pdf: null
+    code: null
     image: "./assets/img/rib_fracture.png"
     notes: "Early Accept (9%), * = equal contribution"
 
@@ -20,8 +21,8 @@ main:
     authors: "<strong>Aiman Farooq*</strong>, Chandisha Das*, Deepak Mishra"
     conference_short: "MICCAI"
     conference: "Deep-Breath Workshop @ MICCAI, 2025"
-    pdf:
-    code:
+    pdf: null
+    code: null
     image: "./assets/img/breast_cancer.png"
     notes: "Oral Presentation, * = equal contribution"
 
@@ -29,8 +30,8 @@ main:
     authors: "<strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury"
     conference_short: "WACV"
     conference: "Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025"
-    pdf:
-    code:
+    pdf: null
+    code: null
     image: "./assets/img/lung_cancer.png"
     notes: "Early Accept (12%)"
 
@@ -38,8 +39,8 @@ main:
     authors: "Harini G.*, <strong>Aiman Farooq*</strong>, Deepak Mishra"
     conference_short: "ICVGIP"
     conference: "Indian Conference on Computer Vision, Graphics and Image Processing <strong>(ICVGIP)</strong>, 2024"
-    pdf:
-    code:
+    pdf: null
+    code: null
     image: "./assets/img/rib_segmentation.png"
     notes: "* = equal contribution"
 
@@ -47,16 +48,16 @@ main:
     authors: "<strong>Aiman Farooq</strong>, Utkarsh Sharma, Deepak Mishra"
     conference_short: "ACCV"
     conference: "Asian Conference on Computer Vision Workshop <strong>(ACCV)</strong>, 2024"
-    pdf:
-    code:
+    pdf: null
+    code: null
     image: "./assets/img/head_neck_cancer.png"
 
   - title: "Translating Imaging to Genomics - Leveraging Transformers for Predictive Modeling"
     authors: "<strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury"
     conference_short: "CVPR WiCV"
     conference: "Conference on Computer Vision and Pattern Recognition - Women in Computer Vision <strong>(CVPR WiCV)</strong>, 2024"
-    pdf:
-    code:
+    pdf: null
+    code: null
     image: "./assets/img/imaging_genomics.png"
 
   - title: "RegFSL - A registration-based framework for Few shot segmentation of Brain Tumor"
@@ -64,13 +65,13 @@ main:
     conference_short: "TechRxiv"
     conference: "TechRxiv Preprint, 2024"
     pdf: "https://doi.org/10.36227/techrxiv.171709831.10024495/v1"
-    code:
+    code: null
     image: "./assets/img/brain_tumor.png"
 
   - title: "AIRib Framework - Development of an End-to-End Pipeline for the Automated Detection, Characterization, Prognostication and Reporting of Traumatic Rib Fractures from CT Scans"
     authors: "S. Datta, <strong>A. Farooq</strong>, S. Agrawal, D. Mishra, A. Kumar, S.R. Gamanagatti, D. Kandasamay, S. Mittal, S. Kumar, R. Sharma"
     conference_short: "RSNA"
     conference: "Radiological Society of North America <strong>(RSNA)</strong>, 2023"
-    pdf:
-    code:
+    pdf: null
+    code: null
     image: "./assets/img/airib.png"
