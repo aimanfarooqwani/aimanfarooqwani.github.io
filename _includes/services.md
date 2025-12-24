@@ -13,12 +13,12 @@
 
 <h4 style="margin:0 10px 0;">Workshop Organization</h4>
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Winter School on Responsible AI @ IIT Jodhpur 2022</autocolor></a></li>
+  <li><autocolor>Winter School on Responsible AI @ IIT Jodhpur 2022</autocolor></li>
  
 </ul>
 
 <h4 style="margin:0 10px 0;">Talks</h4>
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Challenges of medical imaging in India at MICCAI 2025</autocolor></a></li>
+  <li><autocolor>Challenges of medical imaging in India at MICCAI 2025</autocolor></li>
  
 </ul>
