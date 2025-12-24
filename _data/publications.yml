@@ -1,77 +1,77 @@
 main:
 
-  - title: Causal Survival Analysis via Neural Mediation with Counterfactual Risk Estimation
-    authors: <strong>Aiman Farooq</strong>, D Mishra, S Chaudhury
-    conference_short: NeurIPS WiML
-    conference: Women in Machine Learning Workshop @ NeurIPS, 2025
-    pdf: 
-    code: 
-    image: ./assets/img/causal_survival.png
+  - title: "Causal Survival Analysis via Neural Mediation with Counterfactual Risk Estimation"
+    authors: "<strong>Aiman Farooq</strong>, D Mishra, S Chaudhury"
+    conference_short: "NeurIPS WiML"
+    conference: "Women in Machine Learning Workshop @ NeurIPS, 2025"
+    pdf:
+    code:
+    image: "./assets/img/causal_survival.png"
 
-  - title: Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings - A Detailed Annotation Framework and Multi-Label Classification Model
-    authors: Shripad Pate*, <strong>Aiman Farooq*</strong>, Suvrankar Datta, Dr Musadiq Adil Sheikh, Dr. Atin Kumar, Deepak Mishra
-    conference_short: MICCAI
-    conference: Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong>, 2025
-    pdf: 
-    code: 
-    image: ./assets/img/rib_fracture.png
-    notes: Early Accept (9%), * = equal contribution
+  - title: "Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings - A Detailed Annotation Framework and Multi-Label Classification Model"
+    authors: "Shripad Pate*, <strong>Aiman Farooq*</strong>, Suvrankar Datta, Dr Musadiq Adil Sheikh, Dr. Atin Kumar, Deepak Mishra"
+    conference_short: "MICCAI"
+    conference: "Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong>, 2025"
+    pdf:
+    code:
+    image: "./assets/img/rib_fracture.png"
+    notes: "Early Accept (9%), * = equal contribution"
 
-  - title: Uncertainty-Aware Cross-Modal Attention for Breast Cancer Classification in Ultrasound Imaging
-    authors: <strong>Aiman Farooq*</strong>, Chandisha Das*, Deepak Mishra
-    conference_short: MICCAI
-    conference: Deep-Breath Workshop @ MICCAI, 2025
-    pdf: 
-    code: 
-    image: ./assets/img/breast_cancer.png
-    notes: Oral Presentation, * = equal contribution
+  - title: "Uncertainty-Aware Cross-Modal Attention for Breast Cancer Classification in Ultrasound Imaging"
+    authors: "<strong>Aiman Farooq*</strong>, Chandisha Das*, Deepak Mishra"
+    conference_short: "MICCAI"
+    conference: "Deep-Breath Workshop @ MICCAI, 2025"
+    pdf:
+    code:
+    image: "./assets/img/breast_cancer.png"
+    notes: "Oral Presentation, * = equal contribution"
 
-  - title: Survival Prediction in Lung Cancer through Multi-Modal Representation Learning
-    authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
-    conference_short: WACV
-    conference: Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025
-    pdf: 
-    code: 
-    image: ./assets/img/lung_cancer.png
-    notes: Early Accept (12%)
+  - title: "Survival Prediction in Lung Cancer through Multi-Modal Representation Learning"
+    authors: "<strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury"
+    conference_short: "WACV"
+    conference: "Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025"
+    pdf:
+    code:
+    image: "./assets/img/lung_cancer.png"
+    notes: "Early Accept (12%)"
 
-  - title: Leveraging Auxiliary Classification for Rib Fracture Segmentation
-    authors: Harini G.*, <strong>Aiman Farooq*</strong>, Deepak Mishra
-    conference_short: ICVGIP
-    conference: Indian Conference on Computer Vision, Graphics and Image Processing <strong>(ICVGIP)</strong>, 2024
-    pdf: 
-    code: 
-    image: ./assets/img/rib_segmentation.png
-    notes: * = equal contribution
+  - title: "Leveraging Auxiliary Classification for Rib Fracture Segmentation"
+    authors: "Harini G.*, <strong>Aiman Farooq*</strong>, Deepak Mishra"
+    conference_short: "ICVGIP"
+    conference: "Indian Conference on Computer Vision, Graphics and Image Processing <strong>(ICVGIP)</strong>, 2024"
+    pdf:
+    code:
+    image: "./assets/img/rib_segmentation.png"
+    notes: "* = equal contribution"
 
-  - title: Enhanced Survival Prediction in Head and Neck Cancer Using Convolutional Block Attention and Multimodal Data Fusion
-    authors: <strong>Aiman Farooq</strong>, Utkarsh Sharma, Deepak Mishra
-    conference_short: ACCV
-    conference: Asian Conference on Computer Vision Workshop <strong>(ACCV)</strong>, 2024
-    pdf: 
-    code: 
-    image: ./assets/img/head_neck_cancer.png
+  - title: "Enhanced Survival Prediction in Head and Neck Cancer Using Convolutional Block Attention and Multimodal Data Fusion"
+    authors: "<strong>Aiman Farooq</strong>, Utkarsh Sharma, Deepak Mishra"
+    conference_short: "ACCV"
+    conference: "Asian Conference on Computer Vision Workshop <strong>(ACCV)</strong>, 2024"
+    pdf:
+    code:
+    image: "./assets/img/head_neck_cancer.png"
 
-  - title: Translating Imaging to Genomics - Leveraging Transformers for Predictive Modeling
-    authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
-    conference_short: CVPR WiCV
-    conference: Conference on Computer Vision and Pattern Recognition - Women in Computer Vision <strong>(CVPR WiCV)</strong>, 2024
-    pdf: 
-    code: 
-    image: ./assets/img/imaging_genomics.png
+  - title: "Translating Imaging to Genomics - Leveraging Transformers for Predictive Modeling"
+    authors: "<strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury"
+    conference_short: "CVPR WiCV"
+    conference: "Conference on Computer Vision and Pattern Recognition - Women in Computer Vision <strong>(CVPR WiCV)</strong>, 2024"
+    pdf:
+    code:
+    image: "./assets/img/imaging_genomics.png"
 
-  - title: RegFSL - A registration-based framework for Few shot segmentation of Brain Tumor
-    authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
-    conference_short: TechRxiv
-    conference: TechRxiv Preprint, 2024
-    pdf: https://doi.org/10.36227/techrxiv.171709831.10024495/v1
-    code: 
-    image: ./assets/img/brain_tumor.png
+  - title: "RegFSL - A registration-based framework for Few shot segmentation of Brain Tumor"
+    authors: "<strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury"
+    conference_short: "TechRxiv"
+    conference: "TechRxiv Preprint, 2024"
+    pdf: "https://doi.org/10.36227/techrxiv.171709831.10024495/v1"
+    code:
+    image: "./assets/img/brain_tumor.png"
 
-  - title: AIRib Framework - Development of an End-to-End Pipeline for the Automated Detection, Characterization, Prognostication and Reporting of Traumatic Rib Fractures from CT Scans
-    authors: S. Datta, <strong>A. Farooq</strong>, S. Agrawal, D. Mishra, A. Kumar, S.R. Gamanagatti, D. Kandasamay, S. Mittal, S. Kumar, R. Sharma
-    conference_short: RSNA
-    conference: Radiological Society of North America <strong>(RSNA)</strong>, 2023
-    pdf: 
-    code: 
-    image: ./assets/img/airib.png
+  - title: "AIRib Framework - Development of an End-to-End Pipeline for the Automated Detection, Characterization, Prognostication and Reporting of Traumatic Rib Fractures from CT Scans"
+    authors: "S. Datta, <strong>A. Farooq</strong>, S. Agrawal, D. Mishra, A. Kumar, S.R. Gamanagatti, D. Kandasamay, S. Mittal, S. Kumar, R. Sharma"
+    conference_short: "RSNA"
+    conference: "Radiological Society of North America <strong>(RSNA)</strong>, 2023"
+    pdf:
+    code:
+    image: "./assets/img/airib.png"
