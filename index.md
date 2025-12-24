@@ -8,8 +8,8 @@ I am a Ph.D. student at the <a href="https://www.iitj.ac.in/"> IIT Jodhpur</a>, 
 
 ## Research Interests
 
-- **Computer Vision:** Surviva Prediction,Multi modal alignment
-- **Machine Learning:** Self Supervised Learning, Causal Analysis
+- **Computer Vision:** Medical image analysis,Survival Prediction,Multi modal alignment
+- **Machine Learning:** Self-Supervised Learning, Causal Analysis
 
 ## News
 - **[Nov. 2025]** WiML travel grant and NeuRIPS Scholar award to attend NeuRIPS 2025..
