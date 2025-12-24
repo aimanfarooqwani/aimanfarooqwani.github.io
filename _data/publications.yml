@@ -63,4 +63,7 @@ main:
     authors: S. Datta, <strong>A. Farooq,/strong>, S. Agrawal, D. Mishra, A. Kumar, S.R. Gamanagatti, D. Kandasamay, S. Mittal, S.Kumar,R.Sharm
     conference_short: RSNA  
     conference: Radiological Society of North America, 2023.
+    pdf: https://arxiv.org/abs/2010.13938
+    code: https://github.com/miraymen/ndf-1
+    image: ./assets/img/ndf.gif
   
