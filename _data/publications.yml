@@ -59,10 +59,8 @@ main:
     image: ./assets/img/ndf.gif
 
 
-  - title: Learning to Transfer Texture from Clothing Images to 3D Humans
-    authors: <strong>Aymen Mir</strong>, Thiemo Alldieck, Gerard Pons-Moll
-    conference_short: CVPR 
-    conference: IEEE/CVF International Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/abs/2003.02050
-    code: https://github.com/miraymen/pix2surf
-    image: ./assets/img/pix2surf.gif
+  - title: AIRib Framework: Development of an End-to-End Pipeline for the Automated Detection, Characterization, Prognostication and Reporting of Traumatic Rib Fractures from CT Scans
+    authors: S. Datta, <strong>A. Farooq,/strong>, S. Agrawal, D. Mishra, A. Kumar, S.R. Gamanagatti, D. Kandasamay, S. Mittal, S.Kumar,R.Sharm
+    conference_short: RSNA  
+    conference: Radiological Society of North America, 2023.
+  
