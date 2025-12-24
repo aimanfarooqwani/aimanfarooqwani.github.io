@@ -4,8 +4,7 @@ main:
     authors: "<strong>Aiman Farooq</strong>, D Mishra, S Chaudhury"
     conference_short: "NeurIPS WiML"
     conference: "Women in Machine Learning Workshop @ NeurIPS, 2025"
-    pdf:
-    code:
+    pdf:https://openreview.net/attachment?id=2ovFKara9R&name=pdf
     image: "./assets/img/causal_survival.png"
 
   - title: "Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings - A Detailed Annotation Framework and Multi-Label Classification Model"
