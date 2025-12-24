@@ -15,23 +15,22 @@ main:
     pdf: https://link.springer.com/chapter/10.1007/978-3-032-05182-0_22
     code: null
     image: "./assets/img/rib_fracture.png"
-    notes: "Early Accept (9%), * = equal contribution"
+    notes: "Early Accept (9%)
 
   - title: "Uncertainty-Aware Cross-Modal Attention for Breast Cancer Classification in Ultrasound Imaging"
     authors: "<strong>Aiman Farooq*</strong>, Chandisha Das*, Deepak Mishra"
     conference_short: "MICCAI"
     conference: "Deep-Breath Workshop @ MICCAI, 2025"
-    pdf: null
+    pdf: https://link.springer.com/chapter/10.1007/978-3-032-05559-0_22
     code: null
     image: "./assets/img/breast_cancer.png"
-    notes: "Oral Presentation, * = equal contribution"
+    notes: "Oral Presentation
 
   - title: "Survival Prediction in Lung Cancer through Multi-Modal Representation Learning"
     authors: "<strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury"
     conference_short: "WACV"
     conference: "Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025"
-    pdf: null
-    code: null
+    pdf: https://arxiv.org/abs/2409.20179
     image: "./assets/img/lung_cancer.png"
     notes: "Early Accept (12%)"
 
@@ -39,24 +38,22 @@ main:
     authors: "Harini G.*, <strong>Aiman Farooq*</strong>, Deepak Mishra"
     conference_short: "ICVGIP"
     conference: "Indian Conference on Computer Vision, Graphics and Image Processing <strong>(ICVGIP)</strong>, 2024"
-    pdf: null
-    code: null
+    pdf: https://dl.acm.org/doi/10.1145/3702250.3702284
     image: "./assets/img/rib_segmentation.png"
-    notes: "* = equal contribution"
+   
 
   - title: "Enhanced Survival Prediction in Head and Neck Cancer Using Convolutional Block Attention and Multimodal Data Fusion"
     authors: "<strong>Aiman Farooq</strong>, Utkarsh Sharma, Deepak Mishra"
     conference_short: "ACCV"
     conference: "Asian Conference on Computer Vision Workshop <strong>(ACCV)</strong>, 2024"
-    pdf: null
-    code: null
+    pdf: https://link.springer.com/chapter/10.1007/978-981-96-2644-1_20
     image: "./assets/img/head_neck_cancer.png"
 
   - title: "Translating Imaging to Genomics - Leveraging Transformers for Predictive Modeling"
     authors: "<strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury"
     conference_short: "CVPR WiCV"
     conference: "Conference on Computer Vision and Pattern Recognition - Women in Computer Vision <strong>(CVPR WiCV)</strong>, 2024"
-    pdf: null
+    pdf: https://arxiv.org/abs/2408.00311
     code: null
     image: "./assets/img/imaging_genomics.png"
 
