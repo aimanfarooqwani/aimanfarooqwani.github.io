@@ -1,5 +1,13 @@
 main:
 
+  - title: "RegFSL - A registration-based framework for Few shot segmentation of Brain Tumor"
+    authors: "<strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury"
+    conference_short: "BSPC"
+    conference: "Biomedical Signal Processing and Control"
+    pdf: "https://doi.org/10.36227/techrxiv.171709831.10024495/v1"
+    code: null
+    image: "./assets/img/brain_tumor.png"
+    
   - title: "Causal Survival Analysis via Neural Mediation with Counterfactual Risk Estimation"
     authors: "<strong>Aiman Farooq</strong>, D Mishra, S Chaudhury"
     conference_short: "NeurIPS WiML"
@@ -59,13 +67,7 @@ main:
     code: null
     image: "./assets/img/imaging_genomics.png"
 
-  - title: "RegFSL - A registration-based framework for Few shot segmentation of Brain Tumor"
-    authors: "<strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury"
-    conference_short: "TechRxiv"
-    conference: "TechRxiv Preprint, 2024"
-    pdf: "https://doi.org/10.36227/techrxiv.171709831.10024495/v1"
-    code: null
-    image: "./assets/img/brain_tumor.png"
+
 
   - title: "AIRib Framework - Development of an End-to-End Pipeline for the Automated Detection, Characterization, Prognostication and Reporting of Traumatic Rib Fractures from CT Scans"
     authors: "S. Datta, <strong>A. Farooq</strong>, S. Agrawal, D. Mishra, A. Kumar, S.R. Gamanagatti, D. Kandasamay, S. Mittal, S. Kumar, R. Sharma"
