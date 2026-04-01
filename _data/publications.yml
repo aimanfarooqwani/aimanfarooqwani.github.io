@@ -17,14 +17,15 @@ main:
     image: "./assets/img/causal_survival.png"
 
 
-
-    - title: "RobSurv: Multi-Modal Learning for Robust Cancer Survival Prediction."
-    authors: "<strong>Aiman Farooq ,</strong>, Azad Singh, Deepak Mishra and Santanu Chaudhury"
+ - title: "RobSurv: Multi-Modal Learning for Robust Cancer Survival Prediction."
+    authors: "<strong>Aiman Farooq</strong>, Azad Singh, Deepak Mishra and Santanu Chaudhury"
     conference_short: null
-    conference: " Under Review"
-    pdf: null
-    image: null
+    conference: "Under review"
+    pdf: "https://openreview.net/attachment?id=2ovFKara9R&name=pdf"
     code: null
+    image: "./assets/img/causal_survival.png"
+
+
 
 
   - title: "Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings - A Detailed Annotation Framework and Multi-Label Classification Model"
