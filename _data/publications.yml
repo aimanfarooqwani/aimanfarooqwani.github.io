@@ -12,9 +12,18 @@ main:
     authors: "<strong>Aiman Farooq</strong>, Azad Singh, Deepak Mishra, Santanu Chaudhury"
     conference_short: "Under Review"
     conference: "Under Review"
-    pdf: "https://openreview.net/attachment?id=2ovFKara9R&name=pdf"
+    pdf: null
     code:
-    image: "./assets/img/causal_survival.png"
+    image: null
+    notes: "Under Review"
+    
+    - title: "MIMOSA: Missing Modality Survival Analysiswith Shared and Specific Quantized Embeddings for Robust Prediction"
+    authors: "<strong>Aiman Farooq</strong>, Azad Singh, Deepak Mishra, Santanu Chaudhury"
+    conference_short: "Under Review"
+    conference: "Under Review"
+    pdf: null
+    code:
+    image: null
     notes: "Under Review"
 
   - title: "Causal Survival Analysis via Neural Mediation with Counterfactual Risk Estimation"
