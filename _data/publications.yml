@@ -8,16 +8,16 @@ main:
     code:
     image: "./assets/img/brain_tumor.png"
 
-    - title: "RobSurv: Multi-Modal Learning for Robust Cancer Survival Prediction"
-    authors: "<strong>Aiman Farooq</strong>, Azad Singh, Deepak Mishra, Santanu Chaudhury"
-    conference_short: "Under Review"
-    conference: "Under Review"
-    pdf:
-    code:
-    image:
-    notes: "Under Review"
+ - title: "RobSurv: Multi-Modal Learning for Robust Cancer Survival Prediction"
+   authors: "<strong>Aiman Farooq</strong>, Azad Singh, Deepak Mishra, Santanu Chaudhury"
+   conference_short: "Under Review"
+   conference: "Under Review"
+   pdf:
+   code:
+   image:
+   notes: "Under Review"
 
-  - title: "MIMOSA: Missing Modality Survival Analysis with Shared and Specific Quantized Embeddings for Robust Prediction"
+ - title: "MIMOSA: Missing Modality Survival Analysis with Shared and Specific Quantized Embeddings for Robust Prediction"
     authors: "<strong>Aiman Farooq</strong>, Azad Singh, Deepak Mishra, Santanu Chaudhury"
     conference_short: "Under Review"
     conference: "Under Review"
