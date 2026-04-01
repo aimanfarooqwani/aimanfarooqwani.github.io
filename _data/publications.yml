@@ -25,6 +25,15 @@ main:
     image: "./assets/img/rib_fracture.png"
     notes: "Early Accept (9%)"
 
+  - title: "Ribcageimp: A deep learning framework for 3d ribcage implant generation."
+    authors: "Gyandera Singh, Azad Singh,<strong> Aiman Farooq</strong>, and Deepak Mishra."
+    conference_short: "ICVGIP"
+    conference: " Indian Conference on Computer Vision, Graphics and Image Processing <strong>(ICVGIP)</strong>, 2025"
+    pdf: "https://arxiv.org/pdf/2411.09204"
+    code: null
+    image: "./assets/img/ribcage.png"
+   
+
   - title: "Uncertainty-Aware Cross-Modal Attention for Breast Cancer Classification in Ultrasound Imaging"
     authors: "<strong>Aiman Farooq*</strong>, Chandisha Das*, Deepak Mishra"
     conference_short: "MICCAI"
