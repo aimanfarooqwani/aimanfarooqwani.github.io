@@ -1,6 +1,6 @@
 main:
 
-  - title: "RegFSL - A registration-based framework for Few shot segmentation of Brain Tumor"
+- title: "RegFSL - A registration-based framework for Few shot segmentation of Brain Tumor"
     authors: "<strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury"
     conference_short: "BSPC"
     conference: "Biomedical Signal Processing and Control"
@@ -24,11 +24,7 @@ main:
     code: null
     image: "./assets/img/causal_survival.png"
 
-
-
-
-
-
+    
   - title: "Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings - A Detailed Annotation Framework and Multi-Label Classification Model"
     authors: "Shripad Pate*, <strong>Aiman Farooq*</strong>, Suvrankar Datta, Dr Musadiq Adil Sheikh, Dr. Atin Kumar, Deepak Mishra"
     conference_short: "MICCAI"
