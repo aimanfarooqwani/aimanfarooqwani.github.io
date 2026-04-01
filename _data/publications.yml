@@ -16,6 +16,16 @@ main:
     code: null
     image: "./assets/img/causal_survival.png"
 
+
+
+    - title: "RobSurv: Multi-Modal Learning for Robust Cancer Survival Prediction."
+    authors: "<strong>Aiman Farooq ,/strong>, Azad Singh, Deepak Mishra and Santanu Chaudhury"
+    conference_short:
+    conference: " Under Review"
+
+    code: null
+
+
   - title: "Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings - A Detailed Annotation Framework and Multi-Label Classification Model"
     authors: "Shripad Pate*, <strong>Aiman Farooq*</strong>, Suvrankar Datta, Dr Musadiq Adil Sheikh, Dr. Atin Kumar, Deepak Mishra"
     conference_short: "MICCAI"
