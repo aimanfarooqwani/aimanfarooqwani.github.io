@@ -67,7 +67,7 @@ main:
     conference: "International Workshop on Advances in Simplifying Medical Ultrasound"
     pdf:
     code:
-    image:
+    image: ./assets/img/fig_3d_anat_v4.png
   - title: Survival Prediction in Lung Cancer through Multi-Modal Representation
       Learning
     authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
