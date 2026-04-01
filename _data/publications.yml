@@ -16,14 +16,15 @@ main:
     code: null
     image: "./assets/img/causal_survival.png"
 
-
- - title: "RobSurv: Multi-Modal Learning for Robust Cancer Survival Prediction."
-    authors: "<strong>Aiman Farooq</strong>, Azad Singh, Deepak Mishra and Santanu Chaudhury"
-    conference_short: "Under review"
-    conference: "Under review"
+ - title: "Causal Survival Analysis via Neural Mediation with Counterfactual Risk Estimation"
+    authors: "<strong>Aiman Farooq</strong>, D Mishra, S Chaudhury"
+    conference_short: "NeurIPS WiML"
+    conference: "Women in Machine Learning Workshop @ NeurIPS, 2025"
     pdf: "https://openreview.net/attachment?id=2ovFKara9R&name=pdf"
     code: null
     image: "./assets/img/causal_survival.png"
+
+
 
 
 
