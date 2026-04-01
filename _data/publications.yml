@@ -61,6 +61,13 @@ main:
     code: null
     image: ./assets/img/breast_cancer.png
     notes: Oral Presentation
+  - title: "Guide2Heart: Proximity Guidance for Standard Echocardiographic View"
+    authors: "G Singh, <strong>Aiman Farooq</strong>, A Singh, D Mishra, R Choudhary, P Singh Khera"
+    conference_short: "ASMUS"
+    conference: "International Workshop on Advances in Simplifying Medical Ultrasound"
+    pdf:
+    code:
+    image:
   - title: Survival Prediction in Lung Cancer through Multi-Modal Representation
       Learning
     authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
