@@ -8,7 +8,6 @@ main:
     pdf: https://arxiv.org/pdf/2605.07695
     code: null
     image: ./assets/img/v12.png
-
   - title: "SRGN: Subregion Relationship Graph Network with Multi-Scale Spatial Statistics for MGMT Methylation Prediction"
     authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
     conference_short: Under Review
@@ -16,7 +15,6 @@ main:
     pdf: null
     code: null
     image: ./assets/img/images.jpg
-
   - title: "CLARIF: Anatomy-Aware Contrastive Learning and Hierarchical Feature Extraction for CT Rib Fracture Report Generation"
     authors: <strong>Aiman Farooq</strong>, Arkya Bagchi, Ritul Jangir, Suvrankar Datta, Deepak Mishra
     conference_short: Under Review
