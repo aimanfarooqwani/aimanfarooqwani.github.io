@@ -16,10 +16,8 @@
 <h4 style="margin:0 10px 0;">Workshop Organization</h4>
 <ul style="margin:0 0 20px;">
     <li><autocolor>Finance and Sponsorship Chair at WiML Workshop NeurIPS 2026</autocolor></li>
-
     <li><autocolor>Volunteer at WiML Workshop NeurIPS 2025</autocolor></li>
-
-  <li><autocolor>Volunteer at Winter School on Responsible AI @ IIT Jodhpur 2022</autocolor></li>
+    <li><autocolor>Volunteer at Winter School on Responsible AI @ IIT Jodhpur 2022</autocolor></li>
  
 </ul>
 
