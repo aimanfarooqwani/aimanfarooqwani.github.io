@@ -12,6 +12,7 @@ I am a Ph.D. student in the CSE Dept. at <a href="https://www.iitj.ac.in/"> IIT 
 - **Machine Learning:** Self-Supervised Learning, Causal Analysis
 
 ## News
+- **[June 2026]** Appointed as Finance and Sponsorship Chair for WiML at NeurIPS 2026.
 - **[March. 2026]**RegFSL - A registration-based framework for Few shot segmentation of Brain Tumor accepted to Biomedical Signal Processing and Control.
 - **[Nov. 2025]** WiML travel grant and NeuRIPS Scholar award to attend NeuRIPS 2025.
 - **[Sept. 2025]** Awarded the MICCAI Travel Grant(2500$) to attend MICCAI 2025.
