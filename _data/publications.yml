@@ -20,8 +20,8 @@ main:
     conference_short: Under Review
     conference: Under Review
     pdf: null
-    code: null
-    image: ./assets/img/modelv2.png
+    code: null 
+    image: assets/img/modelv2.png
   - title: RegFSL - A registration-based framework for Few shot segmentation of
       Brain Tumor
     authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
