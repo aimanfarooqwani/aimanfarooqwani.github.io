@@ -2,33 +2,26 @@
 main:
 
 - title: OphEdit: Training-Free Text-Guided Editing of Ophthalmic Surgical Videos
-
-    authors: Ritul Jangir, Arkya Jyoti Bagchi,<strong> Aiman Farooq </strong>, Mangalton Okram, Saurabh Seetaram Korgaonkar, Deepak Mishra
+ authors: Ritul Jangir, Arkya Jyoti Bagchi,<strong> Aiman Farooq </strong>, Mangalton Okram, Saurabh Seetaram Korgaonkar, Deepak Mishra
     conference_short: Under Review
     conference: Under Review
     pdf: https://arxiv.org/pdf/2605.07695
     code: null
     image: ./assets/img/v12.png
-
-  - title: SRGN: Subregion Relationship Graph Network with Multi-Scale SpatialStatistics for MGMT Methylation Prediction
-
-    authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
+ - title: SRGN: Subregion Relationship Graph Network with Multi-Scale SpatialStatistics for MGMT Methylation Prediction
+     authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
     conference_short: Under Review
     conference: Under Review
     pdf: null
     code: null
     image: ./assets/img/images.jpg
-
-   - title:CLARIF: Anatomy-Aware Contrastive Learning and Hierarchical FeatureExtraction for CT Rib Fracture Report Generation
-
-    authors: <strong>Aiman Farooq,/strong>, Arkya Bagchi, Ritul Jangir, Suvrankar Datta, Deepak Mishra
+     - title:CLARIF: Anatomy-Aware Contrastive Learning and Hierarchical FeatureExtraction for CT Rib Fracture Report Generation
+     authors: <strong>Aiman Farooq,/strong>, Arkya Bagchi, Ritul Jangir, Suvrankar Datta, Deepak Mishra
     conference_short: Under Review
     conference: Under Review
     pdf: null
     code: null
     image: ./assets/img/modelv2.jpg
-
-    
   - title: RegFSL - A registration-based framework for Few shot segmentation of
       Brain Tumor
     authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
