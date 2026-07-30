@@ -20,7 +20,7 @@ main:
     conference_short: Under Review
     conference: Under Review
     pdf: null
-    code: null 
+    code: null
     image: assets/img/modelv2.png
   - title: RegFSL - A registration-based framework for Few shot segmentation of
       Brain Tumor
@@ -28,7 +28,7 @@ main:
     conference_short: BSPC
     conference: Biomedical Signal Processing and Control
     pdf: https://doi.org/10.36227/techrxiv.171709831.10024495/v1
-    code: null
+    code: https://github.com/aimanfarooqwani/regfsl
     image: ./assets/img/brain_tumor.png
   - title: "RobSurv: Multi-Modal Learning for Robust Cancer Survival Prediction"
     authors: <strong>Aiman Farooq</strong>, Azad Singh, Deepak Mishra, Santanu Chaudhury
@@ -53,7 +53,7 @@ main:
     conference_short: NeurIPS WiML
     conference: Women in Machine Learning Workshop @ NeurIPS, 2025
     pdf: https://openreview.net/attachment?id=2ovFKara9R&name=pdf
-    code: null
+    code: https://github.com/aimanfarooqwani/causal-survival-neural-mediation
     image: ./assets/img/causal_survival.png
   - title: Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings - A
       Detailed Annotation Framework and Multi-Label Classification Model
@@ -63,7 +63,7 @@ main:
     conference: Medical Image Computing and Computer Assisted Intervention
       <strong>(MICCAI)</strong>, 2025
     pdf: https://link.springer.com/chapter/10.1007/978-3-032-05182-0_22
-    code: null
+    code: https://github.com/aimanfarooqwani/classification
     image: ./assets/img/rib_fracture.png
     notes: Early Accept (9%)
   - title: "Ribcageimp: A deep learning framework for 3d ribcage implant generation"
@@ -72,7 +72,7 @@ main:
     conference: Indian Conference on Computer Vision, Graphics and Image Processing
       <strong>(ICVGIP)</strong>, 2025
     pdf: https://arxiv.org/pdf/2411.09204
-    code: null
+    code: https://github.com/aimanfarooqwani/ribcageimp
     image: ./assets/img/ribcage.png
   - title: Uncertainty-Aware Cross-Modal Attention for Breast Cancer Classification
       in Ultrasound Imaging
@@ -80,7 +80,7 @@ main:
     conference_short: MICCAI
     conference: Deep-Breath Workshop @ MICCAI, 2025
     pdf: https://link.springer.com/chapter/10.1007/978-3-032-05559-0_22
-    code: null
+    code: https://github.com/aimanfarooqwani/uncertainty-aware-breast-ultrasound
     image: ./assets/img/breast_cancer.png
     notes: Oral Presentation
   - title: "Guide2Heart: Proximity Guidance for Standard Echocardiographic View"
@@ -97,7 +97,7 @@ main:
     conference: Winter Conference on Applications of Computer Vision
       <strong>(WACV)</strong>, 2025
     pdf: https://arxiv.org/abs/2409.20179
-    code: null
+    code: https://github.com/aimanfarooqwani/lung-cancer-multimodal-survival
     image: ./assets/img/lung_cancer.png
     notes: Early Accept (12%)
   - title: Leveraging Auxiliary Classification for Rib Fracture Segmentation
@@ -106,7 +106,7 @@ main:
     conference: Indian Conference on Computer Vision, Graphics and Image Processing
       <strong>(ICVGIP)</strong>, 2024
     pdf: https://dl.acm.org/doi/10.1145/3702250.3702284
-    code: null
+    code: https://github.com/aimanfarooqwani/rib-fracture-segmentation
     image: ./assets/img/rib_segmentation.png
   - title: Enhanced Survival Prediction in Head and Neck Cancer Using Convolutional
       Block Attention and Multimodal Data Fusion
@@ -114,7 +114,7 @@ main:
     conference_short: ACCV
     conference: Asian Conference on Computer Vision Workshop <strong>(ACCV)</strong>, 2024
     pdf: https://link.springer.com/chapter/10.1007/978-981-96-2644-1_20
-    code: null
+    code: https://github.com/aimanfarooqwani/head-neck-cancer-survival
     image: ./assets/img/head_neck_cancer.png
   - title: Translating Imaging to Genomics - Leveraging Transformers for Predictive
       Modeling
@@ -123,7 +123,7 @@ main:
     conference: Conference on Computer Vision and Pattern Recognition - Women in
       Computer Vision <strong>(CVPR WiCV)</strong>, 2024
     pdf: https://arxiv.org/abs/2408.00311
-    code: null
+    code: https://github.com/aimanfarooqwani/imaging-to-genomics
     image: ./assets/img/imaging_genomics.png
   - title: AIRib Framework - Development of an End-to-End Pipeline for the Automated
       Detection, Characterization, Prognostication and Reporting of Traumatic
@@ -133,5 +133,5 @@ main:
     conference_short: RSNA
     conference: Radiological Society of North America <strong>(RSNA)</strong>, 2023
     pdf: null
-    code: null
+    code: https://github.com/aimanfarooqwani/Agentic_Workflow_AirRib
     image: ./assets/img/airib.png
