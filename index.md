@@ -12,7 +12,7 @@ I am a Ph.D. student in the CSE Dept. at <a href="https://www.iitj.ac.in/"> IIT 
 - **Machine Learning:** Self-Supervised Learning, Causal Analysis
 
 ## News
-- **[August 2026]** OphEdit is accepted to MedViudU workshop(ECCV 2026) for Oral presentation .
+- **[August 2026]** OphEdit is accepted to MedVidU workshop(ECCV 2026) for Oral presentation .
 - **[July 2026]** Awarded the ECCCV DEI grant to attend ECCV 2026 at Malmo, Sweden .
 - **[July 2026]** Awarded the NeurIPS affinity grant 2026 to attend NeurIPS 2026 in Sydney .
 - **[June 2026]** Joined Microsoft Research India as PhD Research Intern .
