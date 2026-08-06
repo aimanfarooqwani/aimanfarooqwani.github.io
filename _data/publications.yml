@@ -3,8 +3,8 @@ main:
 
   - title: "OphEdit: Training-Free Text-Guided Editing of Ophthalmic Surgical Videos"
     authors: Ritul Jangir, Arkya Jyoti Bagchi, <strong>Aiman Farooq</strong>, Mangalton Okram, Saurabh Seetaram Korgaonkar, Deepak Mishra
-    conference_short: Under Review
-    conference: Under Review
+    conference_short: ECCV 2026 Workshop (MedVidU)
+    conference: ECCV 2026 Workshop (MedVidU)
     pdf: https://arxiv.org/pdf/2605.07695
     code: null
     image: ./assets/img/v12.png
