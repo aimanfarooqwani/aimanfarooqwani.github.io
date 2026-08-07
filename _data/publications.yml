@@ -8,7 +8,7 @@ main:
     pdf: https://arxiv.org/pdf/2605.07695
     code: null
     image: ./assets/img/v12.png
-    notes: Oral Presentation
+    notes: Oral Presentation.
   - title: "SRGN: Subregion Relationship Graph Network with Multi-Scale Spatial Statistics for MGMT Methylation Prediction"
     authors: <strong>Aiman Farooq</strong>, Deepak Mishra, Santanu Chaudhury
     conference_short: Under Review
